@@ -1,0 +1,25 @@
+#cameraa,#resultado{
+    border-style:dashed;
+    width: 350px;
+    height: 350px;
+  
+}
+.button1,.button2{
+    border-radius: 30px;
+    font-family: 'Aboreto', cursive;
+font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Alumni Sans Pinstripe', sans-serif;
+font-family: 'Edu NSW ACT Foundation', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+}
+body{
+    background-color: rgb(56, 47, 173);
+ color: white;
+
+}
+span{
+    font-size: 30px;
+
+}
